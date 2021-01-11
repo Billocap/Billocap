@@ -1,10 +1,11 @@
 ### 👋 🌎 !
 
 Hi my name is __Gabriel__   
-But you may find me in other places as __Pikachurin__ o __Billocap__   
+But you may find me in other places as __Pikachurin__ or __Billocap__   
 I'm a self-taught programmer now focusing on web development   
 And some times game development
 I like to learn and create new things.   
+   
 Here's some of my Skills :   
 ![HTML badge](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-white?logo=html5&logoColor=white&labelColor=f06529)
 ![CSS badge](https://shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-white?logo=css3&logoColor=white&labelColor=2965f1)

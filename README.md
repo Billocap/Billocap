@@ -11,9 +11,9 @@ Here's some of my Skills :
 ![CSS badge](https://shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2965f1?logo=css3&logoColor=white&labelColor=2965f1)
 ![SASS badge](https://shields.io/badge/SASS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-CD6799?logo=sass&logoColor=white&labelColor=CD6799)
 ![JavaScript badge](https://shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-f0db4f?logo=javascript&logoColor=black&labelColor=f0db4f)
-![Typescript badge](https://shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007acc?logo=typescript&logoColor=white&labelColor=007acc)
 ![JQuery badge](https://shields.io/badge/JQuery-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0769ad?logo=jquery&logoColor=white&labelColor=0769ad)
 ![React badge](https://shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-61dafb?logo=react&logoColor=black&labelColor=61dafb)
+![Typescript badge](https://shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007acc?logo=typescript&logoColor=white&labelColor=007acc)
 ![Figma badge](https://shields.io/badge/Figma-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-314444?logo=figma&logoColor=white&labelColor=314444)
 
 Fell free to see my projects and ask me anything!   

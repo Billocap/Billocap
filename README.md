@@ -13,6 +13,7 @@ Here's some of my Skills :
 ![JQuery badge](https://shields.io/badge/JQuery-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0769ad?logo=jquery&logoColor=white&labelColor=0769ad)
 ![React badge](https://shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-61dafb?logo=react&logoColor=black&labelColor=61dafb)
 ![Figma badge](https://shields.io/badge/Figma-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-314444?logo=figma&logoColor=white&labelColor=314444)
+![Typescript badge](https://shields.io/badge/Typescript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-007acc?logo=typescript&logoColor=white&labelColor=007acc)
 
 Fell free to see my projects and ask me anything!   
 

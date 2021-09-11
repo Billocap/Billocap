@@ -20,7 +20,7 @@ Fell free to see my projects and ask me anything!
 
 You can reach me at :   
  [![Linkedin Badge](https://img.shields.io/badge/-Pikachurin-0077b5?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Pikachurin/)](https://www.linkedin.com/in/Pikachurin/) 
-[![Gmail Badge](https://img.shields.io/badge/billocap237@gmail.com-ea4335?logo=gmail&logoColor=white&link=mailto:billocap237@gmail.com)](mailto:billocap237@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/pikachurando@protonmail.com-505264?logo=protonmail&logoColor=white&link=mailto:pikachurando@protonmail.com)](mailto:pikachurando@protonmail.com)
 [![CodePen Badge](https://img.shields.io/badge/Pikachurin-black?logo=codepen&logoColor=white&link=https://codepen.io/Pikachurin)](https://codepen.io/Pikachurin)
 [![ItchIo Badge](https://img.shields.io/badge/Pikachurin-ff2449?logo=itch.io&logoColor=white&link=https://pikachurando.itch.io/)](https://pikachurando.itch.io/)
 

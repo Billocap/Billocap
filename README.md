@@ -1,11 +1,12 @@
+![CodeWars Badge](https://www.codewars.com/users/Pikachurin/badges/large)   
+
 ### 👋 🌎 !
 
 Hi my name is __Gabriel__   
 But you may find me in other places as __Pikachurin__ or __Billocap__   
-I'm a self-taught programmer now focusing on web development   
-And some times game development
-I like to learn and create new things.   
-   
+I'm a self-taught programmer now focusing on web development and some times game development   
+I like to learn and create new things.
+
 Here's some of my Skills :   
 ![HTML badge](https://shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-f06529?logo=html5&logoColor=white&labelColor=f06529)
 ![CSS badge](https://shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-2965f1?logo=css3&logoColor=white&labelColor=2965f1)
@@ -24,8 +25,7 @@ You can reach me at :
 [![CodePen Badge](https://img.shields.io/badge/Pikachurin-black?logo=codepen&logoColor=white&link=https://codepen.io/Pikachurin)](https://codepen.io/Pikachurin)
 [![ItchIo Badge](https://img.shields.io/badge/Pikachurin-ff2449?logo=itch.io&logoColor=white&link=https://pikachurando.itch.io/)](https://pikachurando.itch.io/)
 
-But most of all Samy is my hero.
-
+But most of all Samy is my hero.   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 
 Here's a 🎂 for you and don't worry this one is __true__.

@@ -4,7 +4,7 @@ But you may find me in the wilderness as **Pikachurin** or **Billocap**.
 I'm self-taught **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
 Currently I expanding my knowleaged to other forms of frontend and backend development.
 
-Here's some of my expertize:   
+Here's some of my expertise:   
 ![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=black)

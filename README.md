@@ -13,10 +13,10 @@ Here's some of my expertize:
 ![Next Badge](https://img.shields.io/badge/-Next.JS-black?logo=Next.JS&logoColor=white)
 
 You can reach me at:   
-[![Linkedin Badge](https://img.shields.io/badge/-Pikachurin-0077b5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Pikachurin/)
-[![Mail Badge](https://img.shields.io/badge/pikachurando@protonmail.com-505264?logo=protonmail&logoColor=white)](mailto:pikachurando@protonmail.com)
-[![CodePen Badge](https://img.shields.io/badge/Pikachurin-black?logo=codepen&logoColor=white)](https://codepen.io/Pikachurin)
 [![Whatsapp Badge](https://img.shields.io/badge/-(41)%20998544336-25d366?logo=Whatsapp&logoColor=white)](https://mywhats.net/1388650)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/Pikachurin-0077b5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Pikachurin)
+[![Mail Badge](https://img.shields.io/badge/pikachurando@protonmail.com-505264?logo=protonmail&logoColor=white)](mailto:pikachurando@protonmail.com)
+[![CodePen Badge](https://img.shields.io/badge/codepen.io/Pikachurin-black?logo=codepen&logoColor=white)](https://codepen.io/Pikachurin)
    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 

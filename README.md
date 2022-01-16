@@ -14,6 +14,7 @@ Here's some of my expertize:
 
 You can reach me at:   
 [![Whatsapp Badge](https://img.shields.io/badge/-(41)%20998544336-25d366?logo=Whatsapp&logoColor=white)](https://mywhats.net/1388650)
+[![Discord Badge](https://img.shields.io/badge/-Pikachurin-7289da?logo=Discord&logoColor=white)](https://discord.com/users/533361743519416351)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/Pikachurin-0077b5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Pikachurin)
 [![Mail Badge](https://img.shields.io/badge/pikachurando@protonmail.com-505264?logo=protonmail&logoColor=white)](mailto:pikachurando@protonmail.com)
 [![CodePen Badge](https://img.shields.io/badge/codepen.io/Pikachurin-black?logo=codepen&logoColor=white)](https://codepen.io/Pikachurin)

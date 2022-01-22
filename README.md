@@ -12,12 +12,7 @@ Here's some of my expertise:
 ![React Badge](https://img.shields.io/badge/-React-61dbfb?logo=React&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/-Next.JS-black?logo=Next.JS&logoColor=white)
 
-You can reach me at:   
-[![Whatsapp Badge](https://img.shields.io/badge/-(41)%20998544336-25d366?logo=Whatsapp&logoColor=white)](https://mywhats.net/1388650)
-[![Discord Badge](https://img.shields.io/badge/-Pikachurin-7289da?logo=Discord&logoColor=white)](https://discord.com/users/533361743519416351)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/Pikachurin-0077b5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Pikachurin)
-[![Mail Badge](https://img.shields.io/badge/pikachurando@pm.me-505264?logo=protonmail&logoColor=white)](mailto:pikachurando@pm.me)
-[![CodePen Badge](https://img.shields.io/badge/codepen.io/Pikachurin-black?logo=codepen&logoColor=white)](https://codepen.io/Pikachurin)
+Don't forget to check [my website](https://quintino.dev).
    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 

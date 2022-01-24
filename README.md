@@ -1,8 +1,8 @@
 # 👋🌎! 
-My name is **Gabriel**  
-But you may find me in the wilderness as **Pikachurin** or **Billocap**.    
-I'm self-taught **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
-Currently I expanding my knowleaged to other forms of frontend and backend development.
+My name is **[Gabriel Quintino](https://quintino.dev)**, but you may also find me on the wilderness as **Pikachurin**.    
+I'm **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
+
+Currently I learning other forms of **frontend** and **backend** development as well.
 
 Here's some of my expertise:   
 ![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?logo=HTML5&logoColor=white)
@@ -11,8 +11,6 @@ Here's some of my expertise:
 ![TS Badge](https://img.shields.io/badge/-Typescript-007acc?logo=Typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61dbfb?logo=React&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/-Next.JS-black?logo=Next.JS&logoColor=white)
-
-Don't forget to check [my website](https://quintino.dev).
    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 

@@ -1,6 +1,6 @@
 # 👋🌎! 
 My name is **[Gabriel Quintino](https://quintino.dev)**, but you may also find me on the wilderness as **Pikachurin**.    
-I'm **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
+I'm a **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
 
 Currently I learning other forms of **frontend** and **backend** development as well.
 

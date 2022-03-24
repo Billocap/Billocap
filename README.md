@@ -14,8 +14,7 @@ Here is some of the subjects I know
    
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 
-if i had more time i would have written a shorter code. - Sun Tzu
-<!--Here's a 🎂 for you and don't worry this one is __true__.-->
+Here's a 🎂 for you and don't worry this one is __true__.
 
 <!--
 **Billocap/Billocap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

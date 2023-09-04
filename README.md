@@ -11,8 +11,6 @@ Here is some of the subjects I know
 ![TS Badge](https://img.shields.io/badge/-Typescript-007acc?logo=Typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61dbfb?logo=React&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/-Next.JS-black?logo=Next.JS&logoColor=white)
-   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Billocap&show_icons=true&theme=react" />
 
 Here's a 🎂 for you and don't worry this one is __true__.
 

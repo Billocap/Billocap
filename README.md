@@ -1,9 +1,9 @@
 # 👋🌎! 
-My name is **[Gabriel Quintino](https://quintino.dev)**, but you may also find me on the wilderness as **Pikachurin**.    
-I'm a **React** and **NextJS** developer both **JavaScript** and **Typescript**.   
+My name is **[Gabriel Quintino](https://quintino.dev)**.
 
-Currently I learning other forms of **frontend** and **backend** development as well.
+Currently I work as a `frontend` developer but I also like to study other topics like gamedev or backend.
 
+<!--
 Here is some of the subjects I know   
 ![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-264de4?logo=CSS3&logoColor=white)
@@ -11,8 +11,9 @@ Here is some of the subjects I know
 ![TS Badge](https://img.shields.io/badge/-Typescript-007acc?logo=Typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-61dbfb?logo=React&logoColor=black)
 ![Next Badge](https://img.shields.io/badge/-Next.JS-black?logo=Next.JS&logoColor=white)
+-->
 
-Here's a 🎂 for you and don't worry this one is __true__.
+Here's a 🎂 for you and don't worry this one is `true`.
 
 <!--
 **Billocap/Billocap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
